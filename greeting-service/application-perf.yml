@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting.service:
-  greeting: "Hola"
-  default-value: "World"
+  greeting: "Hello"
+  default-value: "profile perf"
